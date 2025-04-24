@@ -1,0 +1,62 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Backup & log files
+*.log
+*.bak
+*.tmp
+
+# Rider IDE
+.idea/
+*.sln.iml
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Publish folder
+publish/
+
+# Runtime files
+*.dbmdl
+*.pdb
+*.cache
+*.sourcelink.json
+
+# Npm / Node
+node_modules/
+package-lock.json
+npm-debug.log
+
+# Entity Framework Migrations snapshot & temp
+Migrations/obj/
+
+# JetBrains Rider & ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Optional: Ignore generated EF Core migration files if preferred
+# Migrations/*.Designer.cs
+# Migrations/*.cs
+
+# Optional: ignore secrets (be careful!)
+secrets.json

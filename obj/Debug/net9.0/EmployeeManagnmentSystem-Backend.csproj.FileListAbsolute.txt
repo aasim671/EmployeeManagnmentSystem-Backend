@@ -292,3 +292,4 @@ C:\Users\Muhammad Aasim\Documents\EmployeeManagnmentSystem\EmployeeManagnmentSys
 C:\Users\Muhammad Aasim\Documents\EmployeeManagnmentSystem\EmployeeManagnmentSystem-Backend\obj\Debug\net9.0\EmployeeManagnmentSystem-Backend.pdb
 C:\Users\Muhammad Aasim\Documents\EmployeeManagnmentSystem\EmployeeManagnmentSystem-Backend\obj\Debug\net9.0\EmployeeManagnmentSystem-Backend.genruntimeconfig.cache
 C:\Users\Muhammad Aasim\Documents\EmployeeManagnmentSystem\EmployeeManagnmentSystem-Backend\obj\Debug\net9.0\ref\EmployeeManagnmentSystem-Backend.dll
+C:\Users\Muhammad Aasim\Documents\EmployeeManagnmentSystem\EmployeeManagnmentSystem-Backend\obj\Debug\net9.0\EmployeeManagnmentSystem-Backend.sourcelink.json
